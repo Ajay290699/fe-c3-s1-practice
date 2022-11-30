@@ -1,7 +1,17 @@
 {
   "users": [
     {
-      
-    }   
+      "id": 1
+    },
+    {
+      "user": {
+        "userName": "Ajay",
+        "password": "adsjyuudh",
+        "contactNo": "1234567895",
+        "emailID": "ahay@123",
+        "address": "navi mumbai , maharashtra"
+      },
+      "id": 2
+    }
   ]
 }
